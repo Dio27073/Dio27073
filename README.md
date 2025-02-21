@@ -12,7 +12,6 @@
 
 - 🎓 Computer Science student at Florida State University
 - 💻 Full Stack Developer passionate about React, TypeScript, and modern web technologies
-- 🌟 Experience in leading development teams and building communities
 - 🗣️ Fluent in English, Portuguese, and Spanish
 - 📧 Reach me at: claudioflorio1@hotmail.com
 
@@ -76,5 +75,3 @@ const techStack = {
 <p align="center">
    <a href="https://www.linkedin.com/in/claudio-olmeda-florio-2733911b9/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
 </p>
-
-<p align="center">Open to collaborations and innovative projects!</p>
