@@ -33,7 +33,7 @@
 ```javascript
 const techStack = {
     languages: [
-        'Python', 'C++', 'TypeScript', 'JavaScript',
+        'Python', 'TypeScript', 'C++', 'JavaScript',
         'HTML/CSS', 'SQL'
     ],
     frameworks: [
