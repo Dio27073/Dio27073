@@ -70,7 +70,7 @@ const techStack = {
 </a>
 </p>
 
-<h2 align="center">Let's Connect! 🤝</h2>
+<h2 align="center">Let's Connect! </h2>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/claudio-olmeda-florio-2733911b9/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
