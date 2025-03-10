@@ -10,12 +10,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science student at Florida State University
-- 💻 Full Stack Developer passionate about React, TypeScript, and modern web technologies
-- 🗣️ Fluent in English, Portuguese, and Spanish
-- 📧 Reach me at: claudioflorio1@hotmail.com
+- Computer Science student at Florida State University
+- Full Stack Developer passionate about React, TypeScript, and modern web technologies
+- Fluent in English, Portuguese, and Spanish
+- Reach me at: claudioflorio1@hotmail.com
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### [Cineverse](https://github.com/Dio27073/movie-recommender) - Movie Recommendation Platform
 - Full-stack platform with React/TypeScript, FastAPI, and PostgreSQL
