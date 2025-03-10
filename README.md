@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-<h3>🎓 Full Stack Developer | Computer Science Student </h3>
+<h3> Full Stack Developer | Computer Science Student </h3>
 </div>
 
 <br />
 
-### 👨‍💻 About Me
+### About Me
 
 - Computer Science student at Florida State University
 - Full Stack Developer passionate about React, TypeScript, and modern web technologies
