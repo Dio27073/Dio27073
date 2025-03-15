@@ -28,7 +28,7 @@
 - Custom UI components with Tailwind CSS and shadcn/ui
 - Spotify Web Playback SDK integration
 
-### 💻 Tech Stack
+### Tech Stack
 
 ```javascript
 const techStack = {
