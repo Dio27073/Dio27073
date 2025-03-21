@@ -9,7 +9,6 @@
 <br />
 
 ### About Me
-
 - Computer Science student at Florida State University
 - Full Stack Developer passionate about React, TypeScript, and modern web technologies
 - Fluent in English, Portuguese, and Spanish
