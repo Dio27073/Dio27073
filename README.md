@@ -63,6 +63,12 @@ const techStack = {
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash">
 </p>
 
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Dio27073&&show_icons=true&theme=radical"/>
+</a>
+</p>
+
 <h2 align="center">Let's Connect </h2>
 
 <p align="center">
