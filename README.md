@@ -1,16 +1,16 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/Dio27073">Claudio</a></h1>
+   <h1>Hi, I'm <a href="https://github.com/Dio27073">Claudio</a></h1>
 </div>
 
 <div align="center">
-<h3> Full Stack Developer | Computer Science Student </h3>
+<h3> Full Stack Developer </h3>
 </div>
 
 <br />
 
 ### About Me
 - Computer Science student at Florida State University
-- Full Stack Developer passionate about React, TypeScript, and modern web technologies
+- Full Stack Developer using React, TypeScript, and modern web technologies
 - Fluent in English, Portuguese, and Spanish
 - Reach me at: claudioflorio1@hotmail.com
 
