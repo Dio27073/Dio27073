@@ -39,10 +39,8 @@ const techStack = {
         'React.js', 'Node.js', 'Bootstrap'
     ],
     tools: [
-        'Git', 'AWS', 'Android Studio',
-        'PyCharm', 'Jupyter Notebooks'
+        'Git', 'AWS', 'Android Studio'
     ],
-    methodologies: ['Agile'],
     currentlyLearning: ['Cloud Architecture', 'System Design']
 };
 ```
